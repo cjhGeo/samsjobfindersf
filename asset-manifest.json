@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samsjobfindersf/static/css/main.6df13dd8.css",
+    "main.js": "/samsjobfindersf/static/js/main.0eb03aa6.js",
+    "static/js/787.6a21edea.chunk.js": "/samsjobfindersf/static/js/787.6a21edea.chunk.js",
+    "index.html": "/samsjobfindersf/index.html",
+    "main.6df13dd8.css.map": "/samsjobfindersf/static/css/main.6df13dd8.css.map",
+    "main.0eb03aa6.js.map": "/samsjobfindersf/static/js/main.0eb03aa6.js.map",
+    "787.6a21edea.chunk.js.map": "/samsjobfindersf/static/js/787.6a21edea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df13dd8.css",
+    "static/js/main.0eb03aa6.js"
+  ]
+}
