@@ -1,0 +1,7 @@
+.form-container {
+  background-image: linear-gradient(#e1ecf9, #9cd8f8);
+  min-height: inherit;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

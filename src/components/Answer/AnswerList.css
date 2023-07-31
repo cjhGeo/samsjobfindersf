@@ -1,0 +1,6 @@
+.answer-list {
+  min-height: inherit;
+  width: fit-content;
+  display: grid;
+  place-items: center;
+}
